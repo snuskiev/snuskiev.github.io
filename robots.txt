@@ -1,0 +1,2 @@
+Host: https://snus-kiev.com.ua
+Sitemap: https://snus-kiev.com.ua/sitemap.xml
